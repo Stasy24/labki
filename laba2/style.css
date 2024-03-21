@@ -1,0 +1,14 @@
+@font-face { 
+    font-family: "MyFontName";  
+    src: url("Myriad\ Pro/MYRIADPRO-REGULAR.OTF") format("opentype") 
+   
+  }
+  body{
+    font-family: "MyFontName";
+  }
+.logo{
+  font-size: 80px;
+}
+.logo span{
+color: #4bcaff;
+}
